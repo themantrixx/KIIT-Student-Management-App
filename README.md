@@ -557,6 +557,7 @@ Development: http://localhost:3000/api/v1
 ## 👥 Team
 
 - **Abhinav** - Full Stack Developer
+- **Ashish** - Full Stack Developer
 - **Debsoomonto** - Backend Developer
 - **Shreemant** - Frontend Developer
 - **Shashwat** - UI/UX Designer
